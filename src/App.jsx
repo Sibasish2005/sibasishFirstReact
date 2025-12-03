@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <h1>learn react with chai aur code</h1>
-     <p>this is a sub string</p>
+     <p>this has been changed</p>
     </>
     
   )
